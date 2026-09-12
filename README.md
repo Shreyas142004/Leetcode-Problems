@@ -47,6 +47,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 ## Number Theory
@@ -58,6 +59,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -95,4 +97,13 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0148-sort-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
