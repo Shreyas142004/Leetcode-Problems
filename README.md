@@ -9,6 +9,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0066-plus-one](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,4 +41,8 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
