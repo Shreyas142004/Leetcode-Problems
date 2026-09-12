@@ -23,6 +23,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | ------- |
 | [0066-plus-one](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
@@ -36,13 +37,27 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 ## Number Theory
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
