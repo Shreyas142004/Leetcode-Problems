@@ -6,6 +6,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0204-count-primes) |
@@ -38,6 +39,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
