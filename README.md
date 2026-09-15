@@ -186,4 +186,8 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
