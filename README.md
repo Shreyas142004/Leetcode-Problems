@@ -11,6 +11,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0070-climbing-stairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0836-rectangle-overlap](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
@@ -167,4 +168,8 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
