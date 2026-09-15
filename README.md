@@ -24,6 +24,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0136-single-number) |
@@ -87,6 +88,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0704-binary-search) |
 ## Enumeration
 |  |
