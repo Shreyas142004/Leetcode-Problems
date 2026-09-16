@@ -119,6 +119,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0148-sort-list) |
 ## Two Pointers
