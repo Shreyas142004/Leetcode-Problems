@@ -8,6 +8,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | ------- |
 | [0050-powx-n](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -103,6 +104,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0704-binary-search) |
 ## Enumeration
@@ -206,4 +208,8 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
