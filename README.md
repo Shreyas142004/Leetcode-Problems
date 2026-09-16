@@ -44,6 +44,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -78,6 +79,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
