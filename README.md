@@ -39,6 +39,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0560-subarray-sum-equals-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
@@ -61,6 +62,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0169-majority-element](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -69,6 +71,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0148-sort-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -199,4 +202,8 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0415-add-strings) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
