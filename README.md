@@ -14,6 +14,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0231-power-of-two](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0415-add-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0560-subarray-sum-equals-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
