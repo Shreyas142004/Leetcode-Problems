@@ -191,6 +191,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0058-length-of-last-word](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0415-add-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0709-to-lower-case) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -216,6 +217,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0415-add-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
 |  |
 | ------- |
