@@ -31,6 +31,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0001-two-sum](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0066-plus-one) |
@@ -75,6 +76,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0169-majority-element) |
@@ -142,6 +144,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0148-sort-list) |
