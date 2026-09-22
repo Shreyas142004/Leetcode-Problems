@@ -157,6 +157,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -192,6 +193,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0415-add-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0709-to-lower-case) |
@@ -238,4 +240,8 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
