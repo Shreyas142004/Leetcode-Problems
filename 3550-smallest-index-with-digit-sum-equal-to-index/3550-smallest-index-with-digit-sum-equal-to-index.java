@@ -9,7 +9,6 @@ class Solution {
         return sum;
     }
     public int smallestIndex(int[] nums) {
-        int small=nums[0];
         for(int i=0;i<nums.length;i++){
             int val=nums[i];
             if(sumDigit(val)==i){
