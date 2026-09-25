@@ -22,6 +22,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -164,6 +165,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0075-sort-colors) |
@@ -214,6 +216,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0415-add-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0415-add-strings) |
@@ -266,4 +269,8 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
