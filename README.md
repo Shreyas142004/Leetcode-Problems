@@ -66,6 +66,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [1512-number-of-good-pairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2706-buy-two-chocolates](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
@@ -105,6 +106,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0217-contains-duplicate](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2706-buy-two-chocolates](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 ## Number Theory
 |  |
 | ------- |
@@ -243,6 +245,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [2706-buy-two-chocolates](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 ## Database
 |  |
 | ------- |
