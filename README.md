@@ -20,6 +20,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [2396-strictly-palindromic-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3945-digit-frequency-score](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +98,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3945-digit-frequency-score](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
