@@ -70,6 +70,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
+| [2942-find-words-containing-character](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
@@ -237,6 +238,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0389-find-the-difference](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0709-to-lower-case) |
+| [2942-find-words-containing-character](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
