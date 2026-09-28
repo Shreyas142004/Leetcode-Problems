@@ -19,6 +19,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [1512-number-of-good-pairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3945-digit-frequency-score](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
@@ -113,6 +114,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0389-find-the-difference](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2706-buy-two-chocolates](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
