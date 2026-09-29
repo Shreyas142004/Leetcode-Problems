@@ -66,6 +66,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0724-find-pivot-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
@@ -102,6 +103,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0389-find-the-difference](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3945-digit-frequency-score](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
@@ -135,6 +137,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
