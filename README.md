@@ -74,6 +74,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 | [2942-find-words-containing-character](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
@@ -106,6 +107,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3945-digit-frequency-score](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
@@ -185,6 +187,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0148-sort-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
