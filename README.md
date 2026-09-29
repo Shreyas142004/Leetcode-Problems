@@ -8,6 +8,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | ------- |
 | [0050-powx-n](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0204-count-primes) |
@@ -79,6 +80,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -246,6 +248,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0005-longest-palindromic-substring](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0709-to-lower-case) |
@@ -277,6 +280,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0415-add-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
