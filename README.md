@@ -27,6 +27,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
@@ -210,6 +211,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -247,6 +249,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0389-find-the-difference) |
@@ -305,6 +308,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 ## Manacher
 |  |
 | ------- |
