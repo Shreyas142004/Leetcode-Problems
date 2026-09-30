@@ -80,6 +80,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [2942-find-words-containing-character](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3903-smallest-stable-index-i](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -156,6 +157,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0560-subarray-sum-equals-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
