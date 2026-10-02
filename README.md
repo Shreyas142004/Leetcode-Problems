@@ -28,6 +28,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
@@ -50,6 +51,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -288,6 +290,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0561-array-partition](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0561-array-partition) |
 | [2706-buy-two-chocolates](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 ## Database
