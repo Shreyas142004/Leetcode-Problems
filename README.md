@@ -35,6 +35,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0119-pascals-triangle-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
@@ -230,6 +231,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Tree
@@ -271,6 +273,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0067-add-binary](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0415-add-strings) |
+| [0678-valid-parenthesis-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -295,6 +298,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0011-container-with-most-water](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0561-array-partition](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [2706-buy-two-chocolates](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 ## Database
 |  |
@@ -332,6 +336,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Manacher
 |  |
