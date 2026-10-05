@@ -308,6 +308,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | ------- |
 | [0175-combine-two-tables](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0596-classes-with-at-least-5-students](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0596-classes-with-at-least-5-students) |
 ## Simulation
 |  |
 | ------- |
