@@ -236,6 +236,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Tree
 |  |
@@ -279,6 +280,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0678-valid-parenthesis-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2942-find-words-containing-character](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
