@@ -82,6 +82,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [1470-shuffle-the-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
@@ -183,6 +184,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 ## Enumeration
 |  |
 | ------- |
