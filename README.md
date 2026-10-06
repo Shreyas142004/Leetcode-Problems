@@ -237,6 +237,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0678-valid-parenthesis-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Tree
@@ -282,6 +283,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0709-to-lower-case](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2942-find-words-containing-character](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
@@ -306,6 +308,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0045-jump-game-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0561-array-partition](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2706-buy-two-chocolates](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 ## Database
 |  |
@@ -346,6 +349,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0032-longest-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Manacher
 |  |
