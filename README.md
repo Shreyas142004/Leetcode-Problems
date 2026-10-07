@@ -153,6 +153,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
@@ -210,6 +211,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0148-sort-list) |
@@ -232,6 +234,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0148-sort-list) |
 ## Stack
 |  |
@@ -369,6 +372,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -390,4 +394,8 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
