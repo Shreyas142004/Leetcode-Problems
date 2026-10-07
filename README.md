@@ -6,6 +6,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0067-add-binary) |
@@ -102,6 +103,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0231-power-of-two) |
@@ -206,6 +208,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
