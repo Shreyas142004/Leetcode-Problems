@@ -245,6 +245,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0094-binary-tree-inorder-traversal](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
@@ -400,4 +401,8 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
