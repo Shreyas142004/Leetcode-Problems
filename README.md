@@ -120,6 +120,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0169-majority-element](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -287,6 +288,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0032-longest-valid-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0290-word-pattern](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
