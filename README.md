@@ -14,6 +14,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0070-climbing-stairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
@@ -101,6 +102,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0136-single-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
@@ -109,6 +111,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0021-merge-two-sorted-lists](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
