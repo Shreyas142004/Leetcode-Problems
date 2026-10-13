@@ -92,6 +92,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -207,6 +208,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Primality Test
 |  |
 | ------- |
