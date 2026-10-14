@@ -25,6 +25,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3945-digit-frequency-score](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 ## Dynamic Programming
 |  |
@@ -343,6 +344,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0678-valid-parenthesis-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2706-buy-two-chocolates](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Database
 |  |
