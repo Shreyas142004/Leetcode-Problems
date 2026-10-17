@@ -77,6 +77,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0682-baseball-game) |
@@ -154,6 +155,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0349-intersection-of-two-arrays](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
