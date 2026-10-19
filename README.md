@@ -78,6 +78,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0349-intersection-of-two-arrays](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0682-baseball-game) |
@@ -136,6 +137,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0349-intersection-of-two-arrays](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -266,6 +268,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0144-binary-tree-preorder-traversal](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
@@ -435,4 +438,8 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
