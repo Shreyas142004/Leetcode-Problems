@@ -94,6 +94,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [1512-number-of-good-pairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -161,6 +162,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0561-array-partition](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -211,6 +213,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
 | ------- |
