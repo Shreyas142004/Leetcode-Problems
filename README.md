@@ -23,6 +23,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0877-stone-game](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1952-three-divisors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [2396-strictly-palindromic-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -172,6 +173,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 ## Divide and Conquer
 |  |
@@ -220,6 +222,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Primality Test
 |  |
@@ -229,6 +232,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1952-three-divisors) |
 ## Prime Number Sieve
 |  |
 | ------- |
@@ -448,4 +452,8 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
