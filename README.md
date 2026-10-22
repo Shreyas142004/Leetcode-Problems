@@ -27,6 +27,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -178,6 +179,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [1952-three-divisors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -226,6 +228,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | ------- |
 | [0204-count-primes](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Primality Test
 |  |
@@ -463,8 +466,10 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2427-number-of-common-factors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
