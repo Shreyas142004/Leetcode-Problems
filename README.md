@@ -34,6 +34,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3945-digit-frequency-score](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +113,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -186,6 +188,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,6 +240,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [1952-three-divisors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Primality Test
 |  |
 | ------- |
