@@ -22,6 +22,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0836-rectangle-overlap](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1201-ugly-number-iii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1952-three-divisors) |
@@ -183,6 +184,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | ------- |
 | [0204-count-primes](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1201-ugly-number-iii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
 | [1952-three-divisors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
@@ -231,6 +233,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0349-intersection-of-two-arrays](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0704-binary-search) |
+| [1201-ugly-number-iii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
@@ -477,12 +480,26 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1201-ugly-number-iii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1201-ugly-number-iii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
+## Combinatorics
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
+## Least Common Multiple
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
