@@ -92,6 +92,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0643-maximum-average-subarray-i](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -152,6 +153,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0389-find-the-difference](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -267,6 +269,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0141-linked-list-cycle](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0705-design-hashset](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -468,6 +471,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0155-min-stack) |
+| [0705-design-hashset](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0705-design-hashset) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -502,4 +506,8 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
