@@ -104,6 +104,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [1480-running-sum-of-1d-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -417,6 +418,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0073-set-matrix-zeroes](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 ## Breadth-First Search
 |  |
 | ------- |
