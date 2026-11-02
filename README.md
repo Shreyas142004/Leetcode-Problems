@@ -32,6 +32,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [2396-strictly-palindromic-number](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -111,6 +112,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2706-buy-two-chocolates](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -197,6 +199,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Divide and Conquer
