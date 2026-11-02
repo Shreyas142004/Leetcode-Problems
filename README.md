@@ -25,6 +25,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1201-ugly-number-iii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1492-the-kth-factor-of-n](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1952-three-divisors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -191,6 +192,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0204-count-primes](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1201-ugly-number-iii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1201-ugly-number-iii) |
+| [1492-the-kth-factor-of-n](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
@@ -485,6 +487,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 ## Prime Factorization
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1952-three-divisors) |
 ## Euclidean Algorithm
 |  |
