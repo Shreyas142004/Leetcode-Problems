@@ -37,6 +37,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3945-digit-frequency-score](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
@@ -120,6 +121,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3903-smallest-stable-index-i](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Bit Manipulation
