@@ -320,6 +320,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1544-make-the-string-great](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
@@ -369,6 +370,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1544-make-the-string-great](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
@@ -442,6 +444,7 @@ My daily LeetCode journey — solving and documenting coding problems to strengt
 | [0856-score-of-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shreyas142004/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
 | ------- |
